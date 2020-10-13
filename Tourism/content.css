@@ -150,3 +150,18 @@ h4{
     top: -100px;  
     width: 800px;
 }
+
+.link-otra-noticia{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 23px;
+    position: relative;
+    top: -80px;
+}
+
+.link-otra-noticia a{
+    text-decoration: none;
+}
+
+.link-otra-noticia a.hover{
+    color: blue;
+}
