@@ -1,0 +1,23 @@
+.image-title {
+border-bottom: 5px solid blue;
+font-family: arial, helvetica, sans-serif;
+text-transform: uppercase;
+width: 800px;
+font-size: 13px;
+}
+
+.image-title p{
+margin-bottom: 0px;
+}
+
+.text{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 23px;
+line-height: 1.7em;
+width: 800px
+}
+
+#first-paragraph::first-letter{
+font-size: 80px;
+color: blue;
+}
