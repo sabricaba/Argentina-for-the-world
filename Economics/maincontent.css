@@ -7,10 +7,17 @@ body{
     font-size: 13px;
     text-align:center;
     width: 800px;
-    border-bottom: 2px solid lightgrey;
-    color: lightgrey;
+    border-bottom: 2px solid grey;
+    color: grey;
     padding-bottom: 10px;
+    font-size: 10px;
 }
+
+.type span{
+    text-transform: uppercase;
+    font-weight:bold;
+    letter-spacing: 1px;
+}  
 
 h1{
     width: 800px;
@@ -55,12 +62,6 @@ h4{
     display:inline-block;
     padding-left: 5px;
     border-left: 2px solid black;
-}
-
-.type span{
-    text-transform: uppercase;
-    font-weight:bold;
-    color: black;
 }
 
 .image-title {
@@ -172,8 +173,6 @@ footer{
 .link-otra-noticia{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 23px;
-    position: relative;
-    top: -80px;
 }
 
 .link-otra-noticia a{
