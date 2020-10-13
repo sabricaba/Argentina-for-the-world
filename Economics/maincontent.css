@@ -220,4 +220,9 @@ footer{
     list-style: none;
 }   
 
-
+.most-viewed span{
+    background-color: blue;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}

@@ -170,7 +170,7 @@ h4{
     position:relative;
     left: 850px;
     top: -5000px;
-    width: 250px;
+    width: 300px;
 }
 
 .most-viewed dt{
@@ -201,4 +201,10 @@ h4{
 
 .most-viewed ol{
     list-style: none;
+}
+
+.most-viewed span{
+    background-color: blue;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
